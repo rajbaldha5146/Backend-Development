@@ -1,5 +1,6 @@
 //to import express module through require function
 const express = require('express');
+//to create express application
 const app = express();
 
 //load config from env file

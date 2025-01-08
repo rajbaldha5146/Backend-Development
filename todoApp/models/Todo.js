@@ -1,3 +1,6 @@
+// This file is used to create a schema for the todo model and export it as a model.
+
+//to import mongoose module through require function
 const mongoose = require('mongoose');
 
 //to create a schema for todo model
